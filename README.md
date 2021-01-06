@@ -28,6 +28,8 @@ _This webpage provides a list of my favorite people and my favorite flavors of i
 
 [MIT](https://opensource.org/licenses/MIT)
 
+Copyright(c) 2020 Mikey Kriegel
+
 ## Contact Information
 
-I'm available to contact at mikkrieg@gmail.com
+Mikey Kriegel: mikkrieg@gmail.com
